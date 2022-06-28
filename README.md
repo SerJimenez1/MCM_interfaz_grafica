@@ -1,11 +1,11 @@
-# Cálculo del MCM de dos números o de un rango de números en una interfaz gráfica usando Curses.
+# Cálculo del MCM de dos números o de un rango de números en una interfaz gráfica usando Curses
 
 El siguiente programa calcula el Mínimo Común Múltiplo de dos números o de un rango de números y se ejecuta con una interfaz gráfica programada con la libreria Curses.
 
 Por el alumno:
 - Alexis Espinoza Villanueva
 
-## Instrucciones de ejecución.
+## Instrucciones de ejecución
 1. El usuario deberá tener instalado python y ubicarse en el cmd en la carpeta donde se encuentra el archivo .py e ingresar:
     ```
     >>> python3 perm_2c.py
